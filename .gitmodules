@@ -1,3 +1,6 @@
 [submodule "puranikabitante"]
 	path = puranikabitante
 	url = https://github.com/brijeshakbari/puranikabitante.co.in.git
+[submodule "sobhahalycon"]
+	path = sobhahalycon
+	url = https://github.com/brijeshakbari/sobhahalycon.git
